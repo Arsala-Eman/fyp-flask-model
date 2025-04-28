@@ -2,7 +2,7 @@
   "build": {
     "builder": "NIXPACKS",
     "nixpacksConfig": {
-      "start": "python fraud.py"
+      "start": "python fraud_api.py"
     }
   }
 }
