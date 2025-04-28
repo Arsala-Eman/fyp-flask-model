@@ -1,8 +1,0 @@
-{
-  "build": {
-    "builder": "NIXPACKS",
-    "nixpacksConfig": {
-      "start": "python fraud_api.py"
-    }
-  }
-}
